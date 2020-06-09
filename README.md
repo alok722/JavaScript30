@@ -1,4 +1,4 @@
-# avaScript30
+# JavaScript30
 Enhanced version of projects build while following https://javascript30.com/
 
 ## Day 1 / 30 : DrumKit
